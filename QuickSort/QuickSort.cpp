@@ -15,8 +15,11 @@ void input() {
 
 		if (n <= 20)
 			break;
-
+		else
+			cout << "\nMaksimum panjang array adalah 20" << endl;
 	}
+
+
 
 }
 
